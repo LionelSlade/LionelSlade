@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LionelSlade.
+- 👋 Hello, my name is @LionelSlade.
 - 👀 I’m interested in building a CQRS Cosmos template using Azure.
 - 🌱 I’m currently learning how to use AI & ML.
 - 💞️ I’m looking to collaborate on better techniques to enable faster web performace for cloud based serverless web-sites. 
